@@ -3,7 +3,6 @@ This is a simple HTML/CSS project that showcases a one-page biography of the lat
 
 ## 🌟 Features
 - One-page biography of Dr. APJ Abdul Kalam 🙏
-- Responsive design that adapts to different screen sizes 📱💻
 - Use of Google Fonts for typography 🆒
 - Hover effects on links ✨
 
